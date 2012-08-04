@@ -80,6 +80,17 @@ td {
   padding: 1em;
 }
 
+#banner-obsolete {
+  margin: 0em;
+  padding: 0.1em 1em;
+  background-color: red;
+}
+
+#banner-obsolete p {
+  font-weight: bold;
+  color: white;
+}
+
 #banner h1 {
   font-size: 36px;
   font-weight: normal;
@@ -113,7 +124,7 @@ td {
 
 #content {
   position: absolute;
-  top: 8em;
+  top: 11em;
   margin-left: 11em;
   margin-right: 11em;
   font-size: 14px;
